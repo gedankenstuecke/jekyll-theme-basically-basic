@@ -8,21 +8,19 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
-lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+lang: en-GB
+title: Ohana, fyi
+email: bgreshake@googlemail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Hello, my name is Ohana and I am a well-behaved, medium-sized, mixed-breed
+  dog that is originally from Réunion. Now I
+  live in the Royal Borough of Greenwich in London, UK.
+github_username:  gedankenstuecke
+logo: /assets/images/logo.jpg
+
 baseurl: "/jekyll-theme-basically-basic"
 url: "https://mmistakes.github.io"
-repository: "mmistakes/minimal-mistakes"
-author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
-google_analytics: UA-2011187-6
+
 disqus:
   shortname:
 search: true
