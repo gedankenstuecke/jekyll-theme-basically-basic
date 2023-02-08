@@ -15,7 +15,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello, my name is Ohana and I am a well-behaved, medium-sized, mixed-breed
   dog that is originally from Réunion. Now I
   live in the Royal Borough of Greenwich in London, UK.
-github_username:  gedankenstuecke
 logo: /assets/images/logo.jpg
 
 baseurl: ""
