@@ -1,0 +1,21 @@
+.container {
+
+    
+  
+    /* Grid styles */
+    display: grid;
+    align-items: top;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col"] {
+  float: left;
+  padding: 15px;
+}
