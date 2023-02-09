@@ -55,7 +55,7 @@ introduction: |
             …and that's how I ended up with Eugenia & Bastian, in the middle of Paris.
         </p>
         <p>
-            Which was great food-wise – as there's plenty of perfectly good garbage everywhere on the floor – and I might have even made a doggie-friend or two. But it wasn't great in terms of parks, as for some reason they don't let dogs roam free on those!
+            Which was great food-wise – as there's plenty of perfectly good garbage everywhere on the floor – and I might have even made a doggie-friend or two. But it wasn't great in terms of parks, as for some reason they don't let dogs roam free in those!
         </p>
     </div>
 
@@ -63,5 +63,29 @@ introduction: |
         
 
         <img src="/assets/images/paris-bc.jpg" style="max-width: 75%; padding: 10px"/>        
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+<div class="container">
+    <div class="col">
+
+        <h2>…to London! 🇬🇧💂</h2>
+        <p>
+            That's why I'm super happy that we're now living in London! In Greenwich I have 
+            a <a href="https://en.wikipedia.org/wiki/Greenwich_Park">lot</a> 
+            <a href="https://en.wikipedia.org/wiki/East_Greenwich_Pleasaunce">of</a> 
+            <a href="https://en.wikipedia.org/wiki/Charlton_Park,_Greenwich">parks</a> for me to zoom around in!
+        </p>
+        <p>
+            And not only parks, I also get to ride on busses and chase these animals I've never seen before in France: Squirrels 🐿️ and foxes 🦊!
+        </p>
+    </div>
+
+    <div class="col">
+        
+
+        <img src="/assets/images/bus.jpg" style="max-width: 75%; padding: 10px"/>        
     </div>
 </div>
