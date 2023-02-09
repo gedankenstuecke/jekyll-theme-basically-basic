@@ -60,6 +60,21 @@
 
   <script async src="/assets/js/ohana.js"></script>
 
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/relativeTime.js"></script>
+  
+  <script>
+      dayjs.extend(window.dayjs_plugin_relativeTime);
+      const birthday = dayjs('2020-01-01');
+      var ta = birthday.from(dayjs());
+  </script>
+  
+  <script>
+      $(function(){
+          $("#years").html(ta);
+          })
+  </script>
+
   </body>
 
 </html>
