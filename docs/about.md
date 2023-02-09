@@ -89,3 +89,17 @@ introduction: |
         <img src="/assets/images/bus.jpg" style="max-width: 75%; padding: 10px"/>        
     </div>
 </div>
+
+<h2>My skills</h2>
+
+I'm already quite skilled at a number of important doggie things. Some other skills I still have to learn, but I'm eager to do so!
+
+<div class="bar front expert" data-skill="Sleeping 💤"></div>
+<div class="bar front expert" data-skill="Eating 🍽️🗑️"></div>
+<div class="bar front advanced" data-skill="Chasing balls 🎾"></div>
+<div class="bar back basic" data-skill="Retrieving balls 🫥"></div>
+<div class="bar front expert" data-skill="Cuddling 🥰"></div>
+<div class="bar front advanced" data-skill="Travel 🚗"></div>
+<div class="bar back intermediate" data-skill="Languages 🇬🇧 🇫🇷 🇪🇸 🇩🇪"></div>    
+<div class="bar basic" data-skill="Being brave 😱"></div>
+<div class="bar learning" data-skill="CSS 💻"></div>
