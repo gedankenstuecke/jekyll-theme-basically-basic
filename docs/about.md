@@ -12,7 +12,7 @@ introduction: |
 
         <h2>The early days…</h2>
         <p>
-            No one really knows, but I was born about <span id='years'></span>, on the island of 
+            No one really knows when, but I was born about <span id='years'></span>, on the island of 
             <a href="https://en.wikipedia.org/wiki/R%C3%A9union">Réunion</a> 🇷🇪. 
         </p>
         <p>
