@@ -35,7 +35,7 @@ introduction: |
             I might style myself as a street dog (especially when eating garbage from the floor), but truth to be told: I was just a few weeks old when our whole litter was rescued by an association and flown to France 🇫🇷 to find some adoptive families for us there.
         </p>
         <p>
-            Based on my amazing looks ✨ I was adopted straight away and , but unfortunately I was a bit <i>too</i> needy for my first adoptive family. 
+            Based on my amazing looks ✨ I was adopted straight away and got to enjoy the sun in the south of France 🌅. Unfortunately, I was a bit <i>too</i> needy for my first adoptive family…
         </p>
     </div>
 
@@ -46,3 +46,22 @@ introduction: |
     </div>
 </div>
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+<div class="container">
+    <div class="col">
+
+        <h2>…to Paris 🧑‍🎨🥖…</h2>
+        <p>
+            …and that's how I ended up with Eugenia & Bastian, in the middle of Paris.
+        </p>
+        <p>
+            Which was great food-wise – as there's plenty of perfectly good garbage everywhere on the floor – and I might have even made a doggie-friend or two. But it wasn't great in terms of parks, as for some reason they don't let dogs roam free on those!
+        </p>
+    </div>
+
+    <div class="col">
+        
+
+        <img src="/assets/images/paris-bc.jpg" style="max-width: 75%; padding: 10px"/>        
+    </div>
+</div>
