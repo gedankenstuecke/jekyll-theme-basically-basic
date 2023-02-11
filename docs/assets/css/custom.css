@@ -56,7 +56,7 @@
   }
   .bar::before{
     content:  attr(data-skill);
-    background-color: #f3b0ff;
+    background-color: #408ab0;
     display: inline-block;
     padding: 5px 0 5px 10px;
     border-radius: inherit;
@@ -67,10 +67,10 @@
   }
   
   .bar.front::before{
-    background-color: #ffcc33;
+    background-color: #f8d475;
   }
   .bar.back::before{
-    background-color: #a6cfe3;
+    background-color: #62d4a3;
   }
   
   .bar.learning::before{
