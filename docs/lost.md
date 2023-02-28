@@ -9,6 +9,10 @@ introduction: |
 # Get in touch with my parents
 Eugenia and Bastian are probably already looking for me everywhere and are panicking by now. 😱 So please get in touch with them to let them know that you found me! 🔎
 <link rel="stylesheet" href="/assets/css/custom.css">
+
+<button id='locbutton' class='btn' style='display:none' onclick="getLocation()">Share your location with Eugenia & Bastian</button>
+
+
 <div class="container">
     <div class="col">
 
