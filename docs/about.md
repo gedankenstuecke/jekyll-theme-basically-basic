@@ -71,7 +71,7 @@ introduction: |
 <div class="container">
     <div class="col">
 
-        <h2>…to London! 🇬🇧💂</h2>
+        <h2>…to London! 🇬🇧💂…</h2>
         <p>
             That's why I'm super happy that we're now living in London! In Greenwich I have 
             a <a href="https://en.wikipedia.org/wiki/Greenwich_Park">lot</a> 
@@ -90,6 +90,26 @@ introduction: |
     </div>
 </div>
 
+<div class="container">
+    <div class="col">
+
+        <h2>…to Argentina! 🇦🇷🧉</h2>
+        <p>
+            After a couple of years in London, my parents took me on another huge trip. After brief stops in Germany and back in Paris, we all flew to Argentina. My mom put me in a huge box, which was a bit confusing at first, but I didn't mind the flight at all. 
+        </p>
+        <p>
+            After getting over my initial jet lag, I've enjoyed all the road trips we've already been doing here! I went <a href="https://www.flickr.com/photos/gedankenstuecke/54208786720/in/album-72177720322417189">to the beach, ate lots of good meat my grandma gave me, and even got to meet some <a href="https://en.wikipedia.org/wiki/Capybara">capybaras</a> already!
+        </p>
+    </div>
+
+    <div class="col">
+        <img src="/assets/images/box.jpg" style="max-width: 75%; padding: 10px"/>
+        <img src="/assets/images/capybara.jpg" style="max-width: 75%; padding: 10px"/>        
+    </div>
+</div>
+
+
+
 <h2>My skills</h2>
 
 I'm already quite skilled at a number of important doggie things. Some other skills I still have to learn, but I'm eager to do so!
@@ -100,7 +120,8 @@ I'm already quite skilled at a number of important doggie things. Some other ski
 <div class="bar back advanced" data-skill="Chasing balls 🎾"></div>
 <div class="bar basic" data-skill="Retrieving balls 🔮"></div>
 <div class="bar front expert" data-skill="Travel 🚗"></div>
+<div class="bar front expert" data-skill="Travel ✈️>"</div>
 <div class="bar back advanced" data-skill="Travel 🚌 🚂"></div>
 <div class="bar back intermediate" data-skill="Languages 🇬🇧 🇫🇷 🇪🇸 🇩🇪"></div>    
-<div class="bar learning" data-skill="Being brave 😱"></div>
+<div class="bar intermediate" data-skill="Being brave 😱"></div>
 <div class="bar learning" data-skill="CSS 💻"></div>
