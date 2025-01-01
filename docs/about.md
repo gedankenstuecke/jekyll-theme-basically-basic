@@ -98,7 +98,7 @@ introduction: |
             After a couple of years in London, my parents took me on another huge trip. After brief stops in Germany and back in Paris, we all flew to Argentina. My mom put me in a huge box, which was a bit confusing at first, but I didn't mind the flight at all. 
         </p>
         <p>
-            After getting over my initial jet lag, I've enjoyed all the road trips we've already been doing here! I went <a href="https://www.flickr.com/photos/gedankenstuecke/54208786720/in/album-72177720322417189">to the beach, ate lots of good meat my grandma gave me, and even got to meet some <a href="https://en.wikipedia.org/wiki/Capybara">capybaras</a> already!
+            After getting over my initial jet lag, I've enjoyed all the road trips we've already been doing here! I went <a href="https://www.flickr.com/photos/gedankenstuecke/54208786720/in/album-72177720322417189">to the beach</a>, ate lots of good meat my grandma gave me, and even got to meet some <a href="https://en.wikipedia.org/wiki/Capybara">capybaras</a> already!
         </p>
     </div>
 
