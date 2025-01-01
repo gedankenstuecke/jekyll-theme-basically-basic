@@ -73,13 +73,13 @@ introduction: |
 
         <h2>…to London! 🇬🇧💂…</h2>
         <p>
-            That's why I'm super happy that we're now living in London! In Greenwich I have 
+            That's why I was super happy when wee then moved to London! In Greenwich I had 
             a <a href="https://en.wikipedia.org/wiki/Greenwich_Park">lot</a> 
             <a href="https://en.wikipedia.org/wiki/East_Greenwich_Pleasaunce">of</a> 
             <a href="https://en.wikipedia.org/wiki/Charlton_Park,_Greenwich">parks</a> for me to zoom around in!
         </p>
         <p>
-            And not only parks, I also get to ride on busses and chase these animals I've never seen before in France: Squirrels 🐿️ and foxes 🦊!
+            And not only parks, I also got to ride on busses and chase these animals I've never seen before in France: Squirrels 🐿️ and foxes 🦊!
         </p>
     </div>
 
