@@ -120,7 +120,7 @@ I'm already quite skilled at a number of important doggie things. Some other ski
 <div class="bar back advanced" data-skill="Chasing balls 🎾"></div>
 <div class="bar basic" data-skill="Retrieving balls 🔮"></div>
 <div class="bar front expert" data-skill="Travel 🚗"></div>
-<div class="bar front expert" data-skill="Travel ✈️>"</div>
+<div class="bar front expert" data-skill="Travel ✈️>"></div>
 <div class="bar back advanced" data-skill="Travel 🚌 🚂"></div>
 <div class="bar back intermediate" data-skill="Languages 🇬🇧 🇫🇷 🇪🇸 🇩🇪"></div>    
 <div class="bar intermediate" data-skill="Being brave 😱"></div>
