@@ -98,7 +98,7 @@ introduction: |
             After a couple of years in London, my parents took me on my next big trip, this time back down into the southern hemisphere - to Argentina! After some brief stops in Germany and then in Paris, we made it to the airport, where my mom put me in this huge box 📦. It was a bit confusing at first, but after spending some quality cuddling-time with my mom in the box before departure, I didn't mind the flight at all. 
         </p>
         <p>
-            After getting over my initial jet lag, I've enjoyed all the road trips we've already been doing here in Argentina! I got to meet a lot of my doggie cousins, went for long runs <a href="https://www.flickr.com/photos/gedankenstuecke/54208786720/in/album-72177720322417189">at the beach</a> 🏖️ ate lots of good meat my grandma gave me 🍖, and even got to meet some <a href="https://en.wikipedia.org/wiki/Capybara">capybaras</a> already!
+            After getting over my initial jet lag, I've enjoyed all the road trips we've already been doing here in Argentina! I got to meet a lot of my doggie cousins, went for long runs <a href="https://www.flickr.com/photos/gedankenstuecke/54208786720/in/album-72177720322417189">at the beach</a> 🏖️ ate lots of good meat my grandma gave me 🍖 (which upset my stomach just a tiny bit), and even got to meet some <a href="https://en.wikipedia.org/wiki/Capybara">capybaras</a> already!
         </p>
     </div>
 
