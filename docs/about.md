@@ -73,7 +73,7 @@ introduction: |
 
         <h2>…to London! 🇬🇧💂…</h2>
         <p>
-            That's why I was super happy when wee then moved to London! In Greenwich I had 
+            That's why I was super happy when we then moved to London! In Greenwich I had 
             a <a href="https://en.wikipedia.org/wiki/Greenwich_Park">lot</a> 
             <a href="https://en.wikipedia.org/wiki/East_Greenwich_Pleasaunce">of</a> 
             <a href="https://en.wikipedia.org/wiki/Charlton_Park,_Greenwich">parks</a> for me to zoom around in!
